@@ -1,0 +1,4 @@
+﻿Tweet,Sentiment,Polarity,Subjectivity
+"""I support Trump!""",Positive,0.5,0.6
+"""This is a disaster...""",Negative,-0.7,0.8
+"""Interesting news about politics""",Neutral,0,0.5
